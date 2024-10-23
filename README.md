@@ -26,6 +26,6 @@ I made this project to practice and showcase my nodejs + expressjs skills. This 
 4. You can create a free mongodb atlas account for the url of mongodb database.
 5. Then run the project using `npm start`.
 
-### Note: You can checkout the live website also here: https://lime-excited-hen.cyclic.app.
+### Note: You can checkout the live website also here: https://campground-master-updated.onrender.com/
 
 Thanks for checking out this repository :heart:
