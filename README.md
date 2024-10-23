@@ -1,4 +1,4 @@
-## CampGroubnd Master Project
+## CampGround Master Project
 
 I made this project to practice and showcase my nodejs + expressjs skills. This project include features like:-
 1. User can authenticate(login/singup) via passport js.
